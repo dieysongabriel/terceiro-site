@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+
+body {
+    
+    
+    background-image: url('imagens/background001.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    font-family: 'Passion One', sans-serif;
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-weight: 100px;
+}
+p {
+    color: white;
+    text-align: center;
+   
+}
+#poema {
+    font-family: 'Sriracha', cursive;
+    color: black;
+    background-color: white;
+   height: 310px;
+   text-align: left;
+   padding-left: 15px;
+   
+}
+#poema2 {
+   background-color: transparent;
+   font-family: 'Sriracha', cursive;
+   width: 200px;
+}
+#poema3 {
+    font-family: 'Sriracha', cursive;;
+    background-color: white;
+    color: black;
+    text-align: left;
+    padding-left: 15px;
+    
+   
+}
+
+
+
+
